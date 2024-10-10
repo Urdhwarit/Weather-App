@@ -1,3 +1,5 @@
+This Weather Application is made by Urdhwarit Rane
+
 # WeatherApplication
 A simple weather application using the openweather API.
 
